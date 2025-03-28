@@ -1,0 +1,15 @@
+C:\Users\mhmdj\source\repos\LinkedListProject0\LinkedListProject0\bin\Debug\net8.0\LinkedListProject0.exe
+C:\Users\mhmdj\source\repos\LinkedListProject0\LinkedListProject0\bin\Debug\net8.0\LinkedListProject0.deps.json
+C:\Users\mhmdj\source\repos\LinkedListProject0\LinkedListProject0\bin\Debug\net8.0\LinkedListProject0.runtimeconfig.json
+C:\Users\mhmdj\source\repos\LinkedListProject0\LinkedListProject0\bin\Debug\net8.0\LinkedListProject0.dll
+C:\Users\mhmdj\source\repos\LinkedListProject0\LinkedListProject0\bin\Debug\net8.0\LinkedListProject0.pdb
+C:\Users\mhmdj\source\repos\LinkedListProject0\LinkedListProject0\obj\Debug\net8.0\LinkedListProject0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmdj\source\repos\LinkedListProject0\LinkedListProject0\obj\Debug\net8.0\LinkedListProject0.AssemblyInfoInputs.cache
+C:\Users\mhmdj\source\repos\LinkedListProject0\LinkedListProject0\obj\Debug\net8.0\LinkedListProject0.AssemblyInfo.cs
+C:\Users\mhmdj\source\repos\LinkedListProject0\LinkedListProject0\obj\Debug\net8.0\LinkedListProject0.csproj.CoreCompileInputs.cache
+C:\Users\mhmdj\source\repos\LinkedListProject0\LinkedListProject0\obj\Debug\net8.0\LinkedListProject0.sourcelink.json
+C:\Users\mhmdj\source\repos\LinkedListProject0\LinkedListProject0\obj\Debug\net8.0\LinkedListProject0.dll
+C:\Users\mhmdj\source\repos\LinkedListProject0\LinkedListProject0\obj\Debug\net8.0\refint\LinkedListProject0.dll
+C:\Users\mhmdj\source\repos\LinkedListProject0\LinkedListProject0\obj\Debug\net8.0\LinkedListProject0.pdb
+C:\Users\mhmdj\source\repos\LinkedListProject0\LinkedListProject0\obj\Debug\net8.0\LinkedListProject0.genruntimeconfig.cache
+C:\Users\mhmdj\source\repos\LinkedListProject0\LinkedListProject0\obj\Debug\net8.0\ref\LinkedListProject0.dll
